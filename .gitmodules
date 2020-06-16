@@ -1,0 +1,9 @@
+[submodule "stock-routes-map-oin"]
+	path = stock-routes-map-oin
+	url = git@github.com:xmarts/stock-routes-map-oin.git
+[submodule "sale-routes-map-oin"]
+	path = sale-routes-map-oin
+	url = git@github.com:xmarts/sale-routes-map-oin.git
+[submodule "partner-routes-map-oin"]
+	path = partner-routes-map-oin
+	url = git@github.com:xmarts/partner-routes-map-oin.git
