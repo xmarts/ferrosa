@@ -1,0 +1,3 @@
+[submodule "bi-pos-warehouse-management"]
+	path = bi-pos-warehouse-management
+	url = git@github.com:xmarts/bi-pos-warehouse-management.git
